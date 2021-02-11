@@ -1,5 +1,7 @@
 # Hi there, I'm Kevin 👋🏼
-I am a Javascript developer that focuses on frontend frameworks such as react. I have a passion for design systems, web accessibility and serverless technologies. To grow my skills I focus on building personal projects with react and nodejs. My vices are bacon and dota 2.
+I am a Javascript developer that focuses on frontend frameworks such as react. I have a passion for design systems, web accessibility and serverless technologies. I learn best by doing. To grow my skills I build small personal projects with react and nodejs. 
+
+My vices are bacon and dota 2.
 
 - 🔭 I’m currently working on getting a job as a software developer
 - 🌱 I’m currently learning GraphQL
