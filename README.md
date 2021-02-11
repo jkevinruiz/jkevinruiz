@@ -1,5 +1,5 @@
 # Hi there, I'm Kevin 👋🏼
-I'm a Front End Developer and a recent graduate from Mount Royal University.
+I am a Javascript developer that focuses on frontend frameworks such as react. I have a passion for design systems, web accessibility and serverless technologies. To grow my skills I focus on building personal projects with react and nodejs. My vices are bacon and dota 2.
 
 - 🔭 I’m currently working on getting a job as a software developer
 - 🌱 I’m currently learning GraphQL
